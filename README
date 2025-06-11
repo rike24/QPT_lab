@@ -1,0 +1,2 @@
+This repository contains a script to do quantuum process tomography of lab data of a single qubit gate. 
+The script QPT is from the repository https://github.com/huangtangy/EM-QPT/tree/main/EM_QPT_online that contains various functions to do QPT in a classical manner like it is utilized in our lab analysis as well as error mitigated QPT, numeric simulations and machine learning based optimization methods for QPT.
